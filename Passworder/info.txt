@@ -1,1 +1,0 @@
-This is a console password thing that makes passwords.
