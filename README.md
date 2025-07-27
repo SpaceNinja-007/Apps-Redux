@@ -1,6 +1,6 @@
 # Apps-Redux
 
-These are some cool handmade apps for windows, May be ported to mac or linux someday
+These are some cool handmade apps for windows because I did these on windows, May be ported to mac or linux someday
 
 ## Notes
 
